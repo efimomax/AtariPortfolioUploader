@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PortfolioUploader", "PortfolioUploader\PortfolioUploader.csproj", "{D6CF1C68-BD5A-4145-A747-D164AF68CC3B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D6CF1C68-BD5A-4145-A747-D164AF68CC3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6CF1C68-BD5A-4145-A747-D164AF68CC3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6CF1C68-BD5A-4145-A747-D164AF68CC3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6CF1C68-BD5A-4145-A747-D164AF68CC3B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5A7B9367-D5D0-4F3B-A1FC-4DF174BDEF94}
+	EndGlobalSection
+EndGlobal
