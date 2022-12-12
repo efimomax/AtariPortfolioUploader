@@ -89,5 +89,8 @@
   <ItemGroup>
     <Content Include="atarilogoicon.ico" />
   </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Hardware\" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
