@@ -1,17 +1,17 @@
-﻿using System.Reflection;
+using System.Reflection;
 using System.Runtime.CompilerServices;
 using System.Runtime.InteropServices;
 
 // Общие сведения об этой сборке предоставляются следующим набором
 // набора атрибутов. Измените значения этих атрибутов для изменения сведений,
 // связанных со сборкой.
-[assembly: AssemblyTitle("PortfolioUploader")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyTitle("Portfolio Uploader")]
+[assembly: AssemblyDescription("Atari Portfolio File Uploader")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("PortfolioUploader")]
-[assembly: AssemblyCopyright("Copyright ©  2022")]
-[assembly: AssemblyTrademark("")]
+[assembly: AssemblyCompany("EfimoMax aka Maksim Efimov")]
+[assembly: AssemblyProduct("efimomax@gmail.com")]
+[assembly: AssemblyCopyright("Copyright ©  2022 efimomax")]
+[assembly: AssemblyTrademark("Efimomax.de")]
 [assembly: AssemblyCulture("")]
 
 // Установка значения False для параметра ComVisible делает типы в этой сборке невидимыми
