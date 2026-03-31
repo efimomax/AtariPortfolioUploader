@@ -12,3 +12,4 @@ Based on https://github.com/peterstark-code/PofoDuino_Lite
 6. Launch the application on the computer (link).
 7. In the application, select the serial port, the file(s), and click “Send To Portfolio.”
 
+![alt text](AtariPlusSystem.png)
